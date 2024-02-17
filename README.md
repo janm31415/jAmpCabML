@@ -1,6 +1,6 @@
 # jAmp Cab ML (AUv3) manual
 
-Welcome to the [jAmp Cab ML](https://www.jamp-audio.com) manual!
+Welcome to the [jAmp Cab ML](https://www.jamp-audio.com/cabml.html) manual!
 
 ## System requirements
 
@@ -63,23 +63,43 @@ If you run Cab ML in it's stand-alone format, you will have an icon of a speaker
 
 ### On / Off
 
+Turn the poweramp on or off.
+
 ### Class B / Class A
+
+Choose between a Class B (push/pull) poweramp or Class A poweramp.
 
 ### Stereo / Mono
 
+Treat the input signal as stereo or as mono. If stereo is selected, the Doubler control will have no effect.
+
 ### Gain
+
+Controls the overall volume of the poweramp.
 
 ### Feedback
 
+Controls the amount of feedback. When feedback is allowed, a portion of the poweramp output signal is fed again into the input loop.
+
 ### Depth
+
+If feedback is enabled, the portion of the poweramp output signal that is fed into the input will first pass through a low pass filter. The strength of the low pass filter is managed by this control.
 
 ### Presence
 
+If feedback is enabled, the portion of the poweramp output signal that is fed into the input will first pass through a high pass filter. The strength of the high pass filter is managed by this control.
+
 ### Tube selector
+
+Several tubes (kt88, 6L6, EL34, kt66, ecc88, 12au7, 6550) can be used in the poweramp.
 
 ### Speaker selector
 
+Several speaker simulations (Celestion V30, Celestion G12M-65 Creamback, Celestion F12M-X200, Electro Voice EVM12L, Eminence Legend 121A, Eminence Swamp Thang, Eminence Texas Heat, Jensen P6V, Jensen P8R, Jensen P10R, Jensen 10 Electric Lighting, Celestion Pulse 15, Eminence Delta 10A, Eminence Legend BP 122, Eminence Legend BP 1525, Jensen Punch BP 12) can be used in the poweramp.
+
 ### Panic button
+
+Occasionally the feedback loop can really catch on and create an unwanted explosion of sound. In that case the poweramp will stop working. The panic button resets the poweramp. All settings remain as before, only the feedback control will be turned to 0.
 
 ## Cabinet section
 
