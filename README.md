@@ -141,6 +141,8 @@ This button will open a file browser. In the file browser you can load any impul
 
 ![](images/mic.jpg)
 
+This section contains the necessary controls to generate a room impulse response based on your microphone position with respect to your amp and the room. It can be used to generate reverb effects.
+
 ### Interactive room positioning
 
 Positioning control for your amplifier in the room.
