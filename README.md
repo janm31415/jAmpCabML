@@ -42,7 +42,7 @@ In the middle we have the preset section. There are a bunch of factory settings 
 
 ### Signal chain row
 
-<img src="images/in.jpg" height="50"/> Control the signal input
+<img src="images/in_icon.jpg" height="50"/> Control the signal input
 
 <img src="images/amp_icon.jpg" height="50"/> Go to the poweramp section
 
@@ -56,3 +56,84 @@ In the middle we have the preset section. There are a bunch of factory settings 
 
 ### Mute button
 If you run Cab ML in it's stand-alone format, you will have an icon of a speaker on the bottom right. This is your muting button. By default, at startup, the sound will be muted to avoid any unwanted feedback. Don't forget to unmute before you start playing.
+
+## Poweramp section
+
+![](images/amp.jpg)
+
+### On / Off
+
+### Class B / Class A
+
+### Stereo / Mono
+
+### Gain
+
+### Feedback
+
+### Depth
+
+### Presence
+
+### Tube selector
+
+### Speaker selector
+
+### Panic button
+
+## Cabinet section
+
+![](images/cab.jpg)
+
+### Interactive screen
+
+### LPF
+
+### HPF
+
+### Guitar / Bass
+
+### Mic on / Mic off
+
+### Gain
+
+### Wet/Dry
+
+### Encode IR button
+
+## Microphone section
+
+![](images/mic.jpg)
+
+### Interactive room positioning
+
+### Interactive mic positioning
+
+### On / Off
+
+### Orient
+
+### Dist
+
+### Angle
+
+### Room
+
+### Microphone type selector
+
+## Connect your audio interface to iPad/iPhone
+
+You need an audio interface to connect your instrument to your mobile device. Known audio interface brands are for instance [Focusrite](https://focusrite.com) or [IK Multimedia](https://www.ikmultimedia.com/).
+
+For iPad you might want to consider using a USB-C hub with power delivery to avoid draining your battery during your jam session, but this is optional.
+
+Your iPhone however cannot deliver enough power on its own to feed the audio interface, so here an extra adapter is necessary that can
+ 1. connect via lightning port to your iPhone
+ 2. connect to your phone charger with USB
+ 3. connect to your audio interface with USB
+
+If you have a Focusrite Scarlett 2i2 or similar you can use the [lighting to USB 3 camera adapter](https://www.amazon.com/Apple-Lightning-USB3-Camera-Adapter/dp/B01F7KJDIM?crid=YQVDGX9WA1YR&keywords=Lightning+to+USB+3+camera+adapter&qid=1641043307&sprefix=lightning+to+usb+3+camera+adapter,aps,792&sr=8-3&linkCode=sl1&tag=virtuosocentr-20&linkId=57ee7dd06d0e356aee5f53a8c03c9268&language=en_US&ref_=as_li_ss_tl) for this which is easily available in the market.
+
+A good tutorial for connecting your audio interface to iPad/iPhone with power charge can be found [here](https://virtuosocentral.com/how-to-connect-the-focusrite-scarlett-to-iphone-or-ipad/).
+
+
